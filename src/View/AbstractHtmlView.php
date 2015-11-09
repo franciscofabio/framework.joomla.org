@@ -1,4 +1,5 @@
 <?php
+//Meu php
 /**
  * Joomla! Framework Status Application
  *
@@ -7,11 +8,12 @@
  */
 
 namespace Joomla\Status\View;
-
+//Meus users
 use Joomla\Model\ModelInterface;
 use Joomla\Renderer\RendererInterface;
 use Joomla\View\AbstractView;
 use Joomla\View\Renderer\Twig;
+
 
 /**
  * Abstract HTML view class for the application
